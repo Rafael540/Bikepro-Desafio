@@ -30,6 +30,15 @@ Tipografia
 
 ![Typography](https://github.com/user-attachments/assets/2dc676d9-9f75-414d-88e4-005462b4de22)
 
+Icones
+
+![Icons](https://github.com/user-attachments/assets/6c342c45-a10c-4704-bc48-0b86d40cf70b)
+
+Componentes
+
+![Components](https://github.com/user-attachments/assets/05304af0-1685-41f3-9c54-7e7c7aa8a26d)
+
+
 Solução Mobile:
 
 ![Frame 1171275583](https://github.com/user-attachments/assets/ec78cbd3-3f7a-40c5-8d20-12cd43a642f4)
