@@ -48,7 +48,7 @@ Solução Mobile:
 
 Segue link da apresentação:
 
-https://www.figma.com/proto/TI9qyW8M2WozB8PxKIJbV6/BikeproSpecialized?page-id=1%3A17&node-id=185-5543&p=f&viewport=236%2C504%2C0.03&t=aCE0xo7UXHwLBTRD-1&scaling=contain&content-scaling=fixed&starting-point-node-id=185%3A5543
+https://www.figma.com/proto/TI9qyW8M2WozB8PxKIJbV6/BikeproSpecialized?page-id=1%3A17&node-id=185-5543&viewport=428%2C1204%2C0.19&t=qmDiL3oWVljFwTAH-1&scaling=contain&content-scaling=fixed&starting-point-node-id=185%3A5543
 
 Segue link dos protótipos:
 
