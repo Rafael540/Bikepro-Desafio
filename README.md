@@ -3,8 +3,9 @@ Resolução desafio Trevo Digital
 ```
 
 🚴 E-commerce de Bicicletas – UX/UI Design
-Este repositório contém o projeto de UX/UI Design para um e-commerce de bicicletas, desenvolvido com um prazo de 5 dias.
-O objetivo é criar uma experiência intuitiva e eficiente para os usuários, considerando boas práticas de usabilidade e design centrado no usuário.
+Este repositório contém o projeto de UX/UI Design para um e-commerce de bicicletas,
+desenvolvido com um prazo de 5 dias.O objetivo é criar uma experiência intuitiva e eficiente
+para os usuários, considerando boas práticas de usabilidade e design centrado no usuário.
 
 
 🔍 Objetivo do Projeto
